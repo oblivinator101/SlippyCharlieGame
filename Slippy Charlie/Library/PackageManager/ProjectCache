@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638419075276370837
-    m_Hash: 105689471
+      ticks: 638419585775442924
+    m_Hash: 2565072204
   m_LockFileStatus:
     m_FilePath: D:/Unity Games/SlippyCharlieGame/Slippy Charlie/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638419075276380847
-    m_Hash: 1993285578
+      ticks: 638419585781732786
+    m_Hash: 321213133
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -36,7 +36,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Editor
-  type: 
+  type: assets
   description: The package gives you the ability to use Unity Version Control in
     the Unity editor. To use Unity Version Control, a subscription is required. Learn
     more about how you can get started for free by visiting https://unity.com/solutions/version-control
@@ -44,6 +44,75 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 1.2.3-preview
+    - 1.2.4-preview
+    - 1.2.6
+    - 1.2.7
+    - 1.2.9
+    - 1.2.11
+    - 1.2.15
+    - 1.2.16
+    - 1.2.17-preview.3
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.9
+    - 1.4.9
+    - 1.5.7
+    - 1.6.0
+    - 1.7.1
+    - 1.8.0
+    - 1.9.0
+    - 1.10.2
+    - 1.11.2
+    - 1.12.5
+    - 1.13.5
+    - 1.14.1
+    - 1.14.4
+    - 1.14.7
+    - 1.14.9
+    - 1.14.12
+    - 1.14.13
+    - 1.14.15
+    - 1.14.16
+    - 1.14.17
+    - 1.14.18
+    - 1.15.1
+    - 1.15.4
+    - 1.15.7
+    - 1.15.9
+    - 1.15.12
+    - 1.15.13
+    - 1.15.15
+    - 1.15.16
+    - 1.15.17
+    - 1.15.18
+    - 1.17.0
+    - 1.17.1
+    - 1.17.2
+    - 1.17.6
+    - 1.17.7
+    - 2.0.0-preview.6
+    - 2.0.0-preview.8
+    - 2.0.0-preview.15
+    - 2.0.0-preview.17
+    - 2.0.0-preview.20
+    - 2.0.0-preview.21
+    - 2.0.0-preview.22
+    - 2.0.0
+    - 2.0.1
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.7
+    - 2.1.0-preview.3
+    - 2.1.0-preview.5
+    - 2.1.0-preview.6
+    - 2.1.0
     - 2.2.0
     compatible:
     - 2.2.0
@@ -76,7 +145,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 638326189440000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.2/manual/index.html
   hasRepository: 1
   repository:
@@ -179,6 +248,103 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.0.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.postprocessing@3.4.0
+  testable: 0
+  isDirectDependency: 1
+  version: 3.4.0
+  source: 1
+  resolvedPath: D:\Unity Games\SlippyCharlieGame\Slippy Charlie\Library\PackageCache\com.unity.postprocessing@3.4.0
+  assetPath: Packages/com.unity.postprocessing
+  name: com.unity.postprocessing
+  displayName: Post Processing
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: The post-processing stack (v2) comes with a collection of effects
+    and image filters you can apply to your cameras to improve the visuals of your
+    games.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.1.7
+    - 0.1.8
+    - 2.0.0-beta
+    - 2.0.1-beta
+    - 2.0.2-preview
+    - 2.0.3-preview
+    - 2.0.5-preview
+    - 2.0.7-preview
+    - 2.0.8-preview
+    - 2.0.9-preview
+    - 2.0.10-preview
+    - 2.0.11-preview
+    - 2.0.12-preview
+    - 2.0.13-preview
+    - 2.0.14-preview
+    - 2.0.15-preview
+    - 2.0.16-preview
+    - 2.0.17-preview
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.5
+    - 2.1.6
+    - 2.1.7
+    - 2.2.1
+    - 2.2.2
+    - 2.3.0
+    - 3.0.1
+    - 3.0.3
+    - 3.1.0
+    - 3.1.1
+    - 3.2.0
+    - 3.2.1
+    - 3.2.2
+    - 3.3.0
+    - 3.4.0
+    compatible:
+    - 3.4.0
+    recommended: 3.4.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638384897060000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.postprocessing@3.4/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/Graphics.git
+    revision: 54427d2529ad1a9e8f31c693d751c6371f914e40
+    path: 
+  unityLifecycle:
+    version: 3.4.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -639,11 +805,30 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 1.5.0
+    - 1.5.1-pre.3
+    - 1.5.1-pre.5
+    - 1.5.1
+    - 1.5.2
+    - 1.6.0-pre.3
+    - 1.6.0
+    - 1.6.1
+    - 1.7.1
+    - 1.7.2
+    - 1.7.3
+    - 1.7.5
+    - 1.7.6
+    - 1.7.7
+    - 1.7.8
+    - 1.8.0-pre.1
+    - 1.8.0
+    - 1.9.0
     - 1.9.1
     compatible:
     - 1.9.1
     recommended: 1.9.1
-    deprecated: []
+    deprecated:
+    - 1.8.0-pre.1
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -669,7 +854,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 638284821510000000
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -2922,7 +3107,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: "The Profile Analyzer tool supports the standard Unity Profiler. You
     can use it to analyze multiple frames and multiple data sets of the CPU data
     in the Profiler.\n\nMain features: \n\u25AA Multi-frame analysis of a single
@@ -2932,6 +3117,19 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 0.4.0-preview.3
+    - 0.4.0-preview.5
+    - 0.4.0-preview.6
+    - 0.5.0-preview.1
+    - 0.6.0-preview.1
+    - 0.7.0-preview.4
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    - 1.1.0-pre.2
+    - 1.1.0
+    - 1.1.1
     - 1.2.2
     compatible:
     - 1.2.2
@@ -2950,7 +3148,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 638108624620000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.performance.profile-analyzer@1.2/manual/index.html
   hasRepository: 1
   repository:
@@ -3115,7 +3313,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: assets
   description: Use this package to export code coverage data and reports from your
     automated tests. Additionally, the Code Coverage package offers a Coverage Recording
     feature which allows capturing coverage data on demand, for manual testing or
@@ -3124,6 +3322,36 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 0.2.0-preview
+    - 0.2.1-preview
+    - 0.2.2-preview
+    - 0.2.3-preview
+    - 0.3.0-preview
+    - 0.3.1-preview
+    - 0.4.0-preview
+    - 0.4.1-preview
+    - 0.4.2-preview
+    - 0.4.3-preview
+    - 1.0.0-pre.1
+    - 1.0.0-pre.2
+    - 1.0.0-pre.3
+    - 1.0.0-pre.4
+    - 1.0.0
+    - 1.0.1
+    - 1.1.0
+    - 1.1.1
+    - 1.2.0-exp.1
+    - 1.2.0-exp.2
+    - 1.2.0-exp.3
+    - 1.2.0-exp.4
+    - 1.2.0-exp.5
+    - 1.2.0-exp.6
+    - 1.2.0-exp.7
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.2.4
     - 1.2.5
     compatible:
     - 1.2.5
@@ -3160,7 +3388,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 638386640140000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.testtools.codecoverage@1.2/manual/index.html
   hasRepository: 1
   repository:
