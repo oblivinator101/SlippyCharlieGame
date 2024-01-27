@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 D:\Unity Games\SlippyCharlieGame\Slippy Charlie
+=======
+C:\Users\persi\GameProjects\SlippyCharlieGame\Slippy Charlie
+>>>>>>> Stashed changes
