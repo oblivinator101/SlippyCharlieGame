@@ -17,7 +17,7 @@ public class PlayerController : MonoBehaviour
 
     public bool isGrounded = true;
     public bool isMoving = false;
-    private bool playerIsDead = false;
+    public bool playerIsDead = false;
 
     private float AngDriveYZ_PositionSpring_StartingValue;
     private float AngDriveYZ_PositionSpring_CurrentValue;
